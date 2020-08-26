@@ -3,7 +3,7 @@
 ## Usage
 
 ```go
-import "github.com/maruware/aggr-errors"
+import aggr_errors "github.com/maruware/aggr-errors"
 
 func sample() error {
     errors := aggr_errors.AggrErrors{}
